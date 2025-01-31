@@ -1,0 +1,19 @@
+{
+  "name": "xyz_karamchari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "groq-sdk": "^0.12.0",
+    "openai": "^4.80.0",
+    "readline-sync": "^1.4.10"
+  }
+}

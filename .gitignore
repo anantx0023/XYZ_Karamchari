@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# qodo-related files (if not needed in the repo)
+.qodo/
